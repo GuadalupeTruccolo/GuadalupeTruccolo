@@ -7,7 +7,7 @@ const Guadalupe = [
     { pronouns: 'She || Her' },
     { skills: ["HTML5", "CSS3", "JavaScript", "ReactJS", "NodeJS", "npm", "Kotlin", "Unity", "Bootstrap"] },
     { birthday: 'September 15, 2004' },
-    { languages: 'Spanish && English' },
+    { languages: 'Spanish && English' }
 ]
 
 let favouriteThing = Guadalupe[1].skills[1]; // CSS3 💖
