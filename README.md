@@ -29,4 +29,4 @@ let favouriteThing = Guadalupe[1].skills[1]; // CSS3 💖
 
 ## 💼 Portfolio
 
-- Cooming soon... 👀
+- Coming soon... 👀
