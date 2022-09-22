@@ -3,14 +3,14 @@
 - 👋 Hi, I’m Guadalupe Trúccolo
 
 ```js
-const Guadalupe = [
-    { pronouns: 'She || Her' },
-    { skills: ["HTML5", "CSS3", "JavaScript", "ReactJS", "NodeJS", "npm", "Kotlin", "Unity", "Bootstrap"] },
-    { birthday: 'September 15, 2004' },
-    { languages: 'Spanish && English' }
-]
+let Guadalupe = {
+    pronouns: 'She/her',
+    skills: ['HTML5', 'CSS3', 'JavaScript', 'ReactJS', 'NodeJS', 'npm', 'Kotlin', 'Unity', 'Bootstrap'],
+    birthday: new Date('September 15, 2004'),
+    languages: ['Spanish', 'English']
+}
 
-let favouriteThing = Guadalupe[1].skills[1]; // CSS3 💖
+let favouriteThing = Guadalupe.skills[1]; // CSS3 <3
 ```
 
 ## 📫 How to reach me...
