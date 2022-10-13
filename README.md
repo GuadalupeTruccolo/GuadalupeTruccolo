@@ -14,13 +14,13 @@ let favouriteThing = Guadalupe.skills[1]; // CSS3 <3
 ```
 
 ## 📫 How to reach me...
-- [Discord](https://discord.com/users/guada#5719){:target="_blank"}
-- [Gmail](mailto:truccologuadalupe@gmail.com){:target="_blank"}
+- [Discord](https://discord.com/users/guada#5719)
+- [Gmail](mailto:truccologuadalupe@gmail.com)
 
 ## 🎓 My CV
 
-- [(English)](https://drive.google.com/file/d/1t_fzXetEAe188IFsgSCI4IXAHRiLJQ_2/view?usp=sharing){:target="_blank"}
-- [(Spanish)](https://drive.google.com/file/d/1dAxtC7Srmu3ZLQiwPYxcSk7pBrydhvoC/view?usp=sharing){:target="_blank"}
+- [(English)](https://drive.google.com/file/d/1t_fzXetEAe188IFsgSCI4IXAHRiLJQ_2/view?usp=sharing)
+- [(Spanish)](https://drive.google.com/file/d/1dAxtC7Srmu3ZLQiwPYxcSk7pBrydhvoC/view?usp=sharing)
 
 ## 📈 GitHub Stats
 
@@ -29,4 +29,4 @@ let favouriteThing = Guadalupe.skills[1]; // CSS3 <3
 
 ## 💼 Portfolio
 
-- [Portfolio | Trúccolo](https://portfolio-truccolo.netlify.app/){:target="_blank"}
+- [Portfolio | Trúccolo](https://portfolio-truccolo.netlify.app/)
