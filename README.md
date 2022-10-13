@@ -12,6 +12,9 @@ let Guadalupe = {
 
 let favouriteThing = Guadalupe.skills[1]; // CSS3 <3
 ```
+## 💼 Portfolio
+
+- [Portfolio | Trúccolo](https://portfolio-truccolo.netlify.app/)
 
 ## 📫 How to reach me...
 - [Discord](https://discord.com/users/guada#5719)
@@ -26,7 +29,3 @@ let favouriteThing = Guadalupe.skills[1]; // CSS3 <3
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GuadalupeTruccolo&theme=radical">
 <img src="https://github-readme-stats.vercel.app/api?username=GuadalupeTruccolo&theme=radical&show_icons=true">
-
-## 💼 Portfolio
-
-- [Portfolio | Trúccolo](https://portfolio-truccolo.netlify.app/)
