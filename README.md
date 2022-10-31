@@ -22,8 +22,8 @@ let favouriteThing = Guadalupe.skills[1]; // CSS3 <3
 
 ## 🎓 My CV
 
-- [(English)](https://drive.google.com/file/d/1t_fzXetEAe188IFsgSCI4IXAHRiLJQ_2/view?usp=sharing)
-- [(Spanish)](https://drive.google.com/file/d/1dAxtC7Srmu3ZLQiwPYxcSk7pBrydhvoC/view?usp=sharing)
+- [(English)](https://drive.google.com/file/d/1FIJG5Ha4y5a7bfx31fXimq0-M4pTWP_g/view?usp=sharing)
+- [(Spanish)](https://drive.google.com/file/d/1Jw01GS_NRpfUJlH91mI8rZlNd4nUYrhC/view?usp=sharing)
 
 ## 📈 GitHub Stats
 
